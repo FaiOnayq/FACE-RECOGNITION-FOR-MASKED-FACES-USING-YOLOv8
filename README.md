@@ -43,8 +43,9 @@ We used the **Face Mask Dataset** from [Roboflow]([https://roboflow.com](https:/
 ## 📊 Evaluation Metrics
 
 - **mAP@0.5**: 93.08%
-- **Precision**: 87.9%
-- **Recall**: 93.4%
+- - **mAP@0.5-0.95**: 72.98%
+- **Precision**: 90.3%
+- **Recall**: 86.8%
 - Confusion Matrix, IoU, F1 Score, Precision-Recall curves
 
 ## 🖥 Experimental Setup
